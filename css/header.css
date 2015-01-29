@@ -1,0 +1,21 @@
+header {
+	width:100%;
+}
+
+@media only screen and (min-width:581px) {
+	header {
+		
+	}
+}
+
+@media only screen and (min-width:891px) {
+	header {
+		
+	}
+}
+
+@media only screen and (min-width:1121px) {
+	header {
+		
+	}
+}
